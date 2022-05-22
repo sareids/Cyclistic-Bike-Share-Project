@@ -35,5 +35,5 @@ Data Visualization and Analysis - Tableau
 
 The Divvy dataset is publicly available [here](https://divvy-tripdata.s3.amazonaws.com/index.html). The data used for my analysis is for a one-year period using the data from files March 2021 – February 2022.
 
-The data has been made available by Motivate International Inc. under this license.
+The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 
