@@ -32,6 +32,7 @@ Three questions will guide the future marketing program:
 ## Tools:
 
 Data Cleaning – MS SQL Server
+
 Data Visualization and Analysis - Tableau
 
 ## Data Set:
