@@ -1,5 +1,8 @@
+<img src="https://user-images.githubusercontent.com/51356447/169710039-6ebd5d90-f78e-49fe-bf9c-c531ea1f6702.PNG" alt="Cyclistic Logo" width="200"/>
+
+
 # Cyclistic-Bike-Share-Project
-Google Data Analytics Capstone Project
+### Google Data Analytics Capstone Project
 
  
 This analysis is from the Google Data Analytics Professional Certificate on Coursera. I chose to do the Cyclistic Bike Share Analysis Case Study as my Capstone Project.
