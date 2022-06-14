@@ -41,3 +41,7 @@ The Divvy dataset is publicly available [here](https://divvy-tripdata.s3.amazona
 
 The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 
+## Data Visualization:
+
+The final data analysis is available in [Tableau](https://public.tableau.com/app/profile/ladawn.reid/viz/Dashboard2_16541146419450/Dashboard6).
+
